@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : "Frances Elliott"
+  name   : "Frances Elliott"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My journey with the Alexander Technique."
   links:
