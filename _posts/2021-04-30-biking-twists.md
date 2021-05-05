@@ -1,0 +1,10 @@
+---
+layout: single
+title: Biking twists
+date: '2021-04-30T09:55:00.001-08:00'
+author: frances
+tags:
+modified_time: '2021-04-30T13:13:14.240-08:00'
+---
+
+I had a private lesson with my teacher today, and had a really great moment of noticing that when I extend my left arm in front of me, I'm more likely to engage in that "spinny-twisty" habit pattern of mine (if you want a visual idea, see the 'trauma reflex photo in this [hanna somatics practitinoer's blog](https://essentialsomatics.wordpress.com/2015/04/01/how-hanna-somatics-helps-me-move-well-despite-labral-hip-tears); like me, she had a labral hip tear). I also noticed that I could inhibit it happening, at least as far as my lower right back ribs area was concerned. So that was exciting! And then I was biking my small kids home from daycare (and remember, I've been struggling with left knee pain during all activities that engage my legs forever) and realized .... hey! I'm extending my left hand out to grasp the handlebar, coudl that be creating my twisting habit pattern and contributing to knee pain, and is it something I could inhibit? I experimented with taking that hand down to my side and looking to the right while extending it out again to the handlebar, and I *think* it might be a new pathway to tackle my habit. More experimentation needed! 
