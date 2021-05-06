@@ -37,7 +37,7 @@ Recently I underwent a bunch of tests that all came back normal, and also found 
 
 I found a few resources that really changed my thinking, because they described the knee-jerk resistance to "stress management" I'd just exhibited:
 
-- [Don't Hate Your Gut](https://donthateyourguts.com/)
+- [Don't Hate Your Guts](https://donthateyourguts.com/)
 - [Ep. 9 on stress of the IBS Freedom podcast](https://podcasts.apple.com/us/podcast/ibs-freedom-podcast/id1536659361)
 - [Burnout](https://www.penguinrandomhouse.com/books/592377/burnout-by-emily-nagoski-phd-and-amelia-nagoski-dma/)
 
@@ -62,7 +62,7 @@ So I was willing to admit I was resistant to the idea of "stress management" or 
   -  **exploratory** Actually, maybe the IBS pain has caused me stress and anxiety! And seeking to control my symptoms is in itself a fight stress response! 
 
 
-So the long and short of it is, I've started a mindful journal around my gut, using ideas from donthateyourgut.com. I've found that when I'm strongly attracted to a philosophical or psychophysical framework, I usually need to temper my beginner's enthusiasm to actually get the most of out said framework.  Frameworks tend to have absolutist statements, but the human self is such a complex mystery that only paradoxes can accommodate absolutes. So yes, I believe in acceptance AND change; nondoing AND doing, not 'controlling' my symptoms but also reducing GI  pain in the short term where possible, etc. I also accept that usually a combination of different frameworks work best for me, and that what works in a time of crisis may not be the thing that works long term (for example, immediately after hip surgery, Feldenkrais was enormously helpful, but long term, Alexander Technique is the most fruitful path for me).
+So the long and short of it is, I've started a mindful journal around my gut, using ideas from psychologist Dr. Jennifer Franklin of donthateyourguts.com. I've found that when I'm strongly attracted to a philosophical or psychophysical framework, I usually need to temper my beginner's enthusiasm to actually get the most of out said framework.  Frameworks tend to have absolutist statements, but the human self is such a complex mystery that only paradoxes can accommodate absolutes. So yes, I believe in acceptance AND change; nondoing AND doing, not 'controlling' my symptoms but also reducing GI  pain in the short term where possible, etc. I also accept that usually a combination of different frameworks work best for me, and that what works in a time of crisis may not be the thing that works long term (for example, immediately after hip surgery, Feldenkrais was enormously helpful, but long term, Alexander Technique is the most fruitful path for me).
 
 Here's to exploring!
 
