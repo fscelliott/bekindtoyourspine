@@ -43,7 +43,7 @@ I found a few resources that really changed my thinking, because they described 
 
 In addition, I also read lots of blogs by women who've recovered from IBS/SIBO/etc and are selling their healing services as dieticians and functional meds. SO many of them mentioned being super resistant to mindfulness, yoga, and psychotherapy, but that such practices became the most important things they tried.
 
-I was reminded of Walter Carrington (an important A.T. teacher) saying something like "people are really bad at thinking [he meant a type of mindful thinking] and will do almost anything to avoid it". hah. yeah. me too, in spite of my bent for self knowledge. 
+I was reminded of Walter Carrington (an important A.T. teacher) saying something like "people are really bad at thinking [he meant a type of mindful thinking] and will do almost anything to avoid it". Hah. Yeah. me too, in spite of my bent for self knowledge. 
 
 So I was willing to admit I was resistant to the idea of "stress management" or pyschological treatments for IBS, and I started to come up with a list of resistant vs. exploratory thoughts about it:
 
