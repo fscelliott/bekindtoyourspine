@@ -33,7 +33,7 @@ But it just didn't make sense to me that stress or anxiety were the cause of my 
 
 ### Resistance to the mere mention of stress management
 
-Recently I underwent a bunch of tests that all came back normal, and also found through extensive food journaling that I have to restrict my diet to an unhealthy extent to stay pain free (white starches, meat, dairy, and soluble fiber supplements; nary a veggie to be found). I knew something finally had to change. I sat with my spouse and talked about the next treatment options, which included functional medicine and clinically proven hypnotherapy or CBT. He started to suggest, "Maybe stress management could help..."  and I cut him off with a loud, "don't even *say* stress management!" The strength of my reaction was super interesting to me once I calmed down, and I started researching. 
+Recently I underwent a bunch of GI tests that all came back normal, and also found through extensive food journaling that I have to restrict my diet to an unhealthy extent to stay pain free (white starches, meat, dairy, and soluble fiber supplements; nary a veggie to be found). I knew something finally had to change. I sat with my spouse and talked about the next treatment options, which included functional medicine and clinically proven hypnotherapy or CBT. He started to suggest, "Maybe stress management could help..."  and I cut him off with a loud, "don't even *say* stress management!" The strength of my reaction was super interesting to me once I calmed down, and I started researching. 
 
 I found a few resources that really changed my thinking, because they described the knee-jerk resistance to "stress management" I'd just exhibited:
 
