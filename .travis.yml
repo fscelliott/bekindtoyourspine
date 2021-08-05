@@ -8,10 +8,10 @@ install:
   - bundle install
 
 script:
-  - "./script/build-travis.sh"
-
+  #- "./script/build-travis.sh"
+  - bundle exec jekyll build
 branches:
   only:
   - master
 
-sudo: false
+#sudo: false
