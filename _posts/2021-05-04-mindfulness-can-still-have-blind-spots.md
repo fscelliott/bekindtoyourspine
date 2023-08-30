@@ -18,6 +18,12 @@ For example, I believed that if I successfully overcame some painful habits in m
 
  So yes, unity of self, and *also*, parts in the context of the whole. 
 
+The experience reminds me quite a bit of a quote I ran across while reading about meditation:
+
+> sometimes something comes up in my life that's so massively flawed in my personality,  that I marvel that I could have ever made such subtle meditation practice when I was overlooking this big elephant, a problem that I can triangulate on > and work to fix because it is so basically wrong. I'm definitely not a perfect human being. All of these are true and they don't seem to conflict anymore. There seems to be a middle path that continues which isn't constrained by awakened > or unawakened in the same solid sense anymore. [DhO](https://shargrolpostscompilation.blogspot.com/p/blog-page.html#:~:text=massively%20flawed%20in%20my%20personality)
+
+ 
+
 ### Mindfulness in AT doesn't necessarily translate to other life domains
 
 This uneven A.T. progress recently let me admit to myself that I possibly *wasn't* aware and mindful in another important domain: my gut.  To explain, I had an attack of IBS over 10 years ago while pursuing a master's at a classic music conservatory. (I believe it was triggered by acute performance anxiety brought on by a major mismatch between my technical and aesthetic musical beliefs and those of my teacher.)  Since then I've been largely healthy (aside from avoiding onions and garlic). But after a series of stressful events starting 2019 (2 cancer diagnoses in the immediate family; gave birth to my second child; was laid off from work; started a business, covid19), I've experienced chronic, mild to moderate stomach pain -- and my previous diet modifications no longer work. 
