@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mindful Motion 
+title: be kind to your spine
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Alexander Technique blog by a teacher trainee
@@ -64,7 +64,7 @@ author:
       #icon: "fas fa-fw fa-link"
       #url: "localhost:4000"
       url: "https://fscelliott.github.io"
-      baseurl: "/mindfulmotion"
+      baseurl: "/bekindtoyourspine"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
@@ -115,7 +115,7 @@ tag_archive:
   path: /tags/
 
 # stuff I added
-repository: "fscelliott/mindfulmotion"
+repository: "fscelliott/bekindtoyourspine"
 header:
   image: /assets/images/sunset.jpg
   image_description: "A sunset in glenwood hills, Albuquerque, NM. photo credit Frances Elliott"
