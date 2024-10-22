@@ -28,7 +28,7 @@ During a lesson, you'll learn to release unnecessary, painful, or uncomfortable 
 
 #### Massage table work
 
-Table work is a chance for you to integrate what you've learned during movement activities while lying down. During a portion of the lesson, you'll lie down with your knees bent and your hands resting on your torso and sides. Gravity, coupled with my hands-on work, can encourage space and ease in your joints. Table work is also a great time for you to practice "nondoing".
+Table work is a chance for you to integrate what you've learned during movement activities while lying down. During a portion of the lesson, you'll lie down on the table with your back resting on the table, your knees bent, and your hands resting on your torso and sides. Gravity, coupled with my hands-on work, can encourage space and ease in your joints. Table work is also a great time for you to practice "nondoing".
 
 #### Cost
 
