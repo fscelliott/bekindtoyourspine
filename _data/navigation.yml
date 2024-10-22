@@ -9,5 +9,5 @@ main:
     url: /about/
   - title: "Schedule a lesson"
     url: /schedule/
-  - title: "Logistics"
+  - title: "What to expect"
     url: /logistics/
