@@ -7,7 +7,7 @@ tags: personal
 modified_time: '2021-3-28T13:13:14.240-08:00'
 ---
 
-**Note:** This is a post on my learning process during the Alexander Technique teacher training course, and it might not reflect my current understanding of the technique.
+> **Note:** This is a post on my learning process during the Alexander Technique teacher training course, and it might not reflect my current understanding of the technique.
 
 So I feel like last semester and this semester in the teacher training course has a pattern -- I start out feeling really pumped and like I’m learning fast, then a few weeks in, I start to encounter left shoulder/neck pain and get upset about the pain, since it has a long history (basically from when I first injured my right hip almost a decade ago).
 

@@ -8,7 +8,7 @@ modified_time: '2024-02-28T00:00:00.000-00:00'
 ---
 
 
-**Note:** This is a post on my learning process during the Alexander Technique teacher training course, and it might not reflect my current understanding of the technique.
+> **Note:** This is a post on my learning process during the Alexander Technique teacher training course, and it might not reflect my current understanding of the technique.
 
 
 ### My A.T. awareness expands unevenly
