@@ -8,8 +8,6 @@ After years of chronic pain and trying everything under the sun, the Alexander T
 I see the A.T. as a gateway to freedom, not just in relationship to pain, but to all facets of life. The implications are deep and can take years to unfold, but the experience of a hands-on lesson is immediate, concrete, and unlike anything you've had before.
 
 
-You can find more information on the Alexander Technique at:
+You can find more information on the Alexander Technique at [http://www.amsatonline.org](http://www.amsatonline.org)
 
-- [http://www.amsatonline.org](http://www.amsatonline.org)
-
-<!-- - http://www.alexandertechnique.com/ -->
+<!-- - http://www.alexandertechnique.com/ TODO add link for listing on that site -->
