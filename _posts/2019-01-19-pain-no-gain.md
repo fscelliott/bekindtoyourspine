@@ -1,16 +1,16 @@
 ---
 layout: single
-title: No gain from pain
+title: No gain from pain!
 date: '2019-01-19T09:55:00.001-08:00'
 author: frances
-tags:
+tags: personal
 modified_time: '2021-3-28T13:13:14.240-08:00'
 ---
 
 
 So I feel like last semester and this semester in the teacher training course has a pattern -- I start out feeling really pumped and like I’m learning fast, then a few weeks in, I start to encounter left shoulder/neck pain and get upset about the pain, since it has a long history (basically from when I first injured my right hip almost a decade ago).
 
-Last Thursday I brought it up in class and we ended up talking about emotional/physical pain for quite a while. I went through two phases during these conversations.
+Last Thursday I brought it up in the training course and we ended up talking about emotional/physical pain for quite a while. I went through two phases during these conversations.
 First, I had the following questions confusedly swirling in my head:
 
 - If I want to work on a procedure, be it taking the back of the chair, or someone’s arm or head, but I experience pain, how do I react? Can I still learn something useful, inhibit, and direct, while experiencing the pain? It seems like sometimes yes, and sometimes no. What makes the difference?
