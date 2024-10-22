@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "Schedule a lesson"
     url: /schedule/
+  - title: "Logistics"
+    url: /logistics/
