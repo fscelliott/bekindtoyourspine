@@ -1,11 +1,13 @@
 ---
 layout: single
-title: What's the point of AT awareness?
+title: (Personal post) What's the point of AT awareness?
 date: '2023-08-30T00:00:00.000-00:00'
 author: frances
 tags: personal
 modified_time: '2023-08-30T00:00:00.000-00:00'
 ---
+
+**Note:** This is a post on my learning process during the Alexander Technique teacher training course, and it might not reflect my current understanding of the technique.
 
 Recently I've been experimenting quite a bit with a " heart-centered awake awareness" style of mindfulness in my daily life. It's a nondual approach to awareness popularized by Loch Kelly, and it's very much in contrast to the 'deliberate' styles of mindfulness that are so popular now -- in fact, he'd claim deliberate styles, such as "one-point focus" are all just training wheels, not the main point. I've been rather amazed by the implications for how I approach my somatic, emotional, and cognitive experiences. It's offering me glimpses of aliveness and freedom and 'basic goodness' that I just had no idea were possible.
 

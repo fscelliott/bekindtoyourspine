@@ -1,11 +1,13 @@
 ---
 layout: single
-title: Wearing a backpack no longer hurts?
+title: (Personal post) Wearing a backpack no longer hurts?
 date: '2021-12-05T00:00:00.000-00:00'
 author: frances
 tags: personal
 modified_time: '2024-02-28T00:00:00.000-00:00'
 ---
+
+**Note:** This is a post on my learning process during the Alexander Technique teacher training course, and it might not reflect my current understanding of the technique.
 
 So I’ve been making a lot of progress in the last semester on directing my limbs in the service of coming up through the torso and no longer hunching my shoulders. It feels immensely freeing both emotionally and physically, and it’s a skill I’ve been impatient to learn for a long time.
 
