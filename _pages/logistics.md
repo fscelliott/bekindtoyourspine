@@ -6,6 +6,10 @@ title: "What to expect"
 I teach out of my in-home studio in the foothills area of Albuquerque, New Mexico.
 See the following logistics so you know what to expect during an Alexander Technique lesson.
 
+![teaching studio](/assets/images/studio.jpg)
+*Teaching studio*
+
+
 #### Accessibility
 
 There's one step up and one step down to my in-home teaching studio. Let me know if you need assistance in navigating the steps and I can help. There's a bathroom down the hall from the studio that's available for your use. The house is pet free and fragrance free.
