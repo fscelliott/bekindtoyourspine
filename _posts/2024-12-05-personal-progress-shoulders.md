@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Reflections on personal progress: freeing up my shoulders
+title: Reflections on personal progress - freeing up my shoulders
 date: '2024-12-05T00:00:00.000-00:00'
 author: frances
 tags: change, video
