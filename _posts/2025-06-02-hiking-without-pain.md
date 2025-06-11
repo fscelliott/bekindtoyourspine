@@ -3,7 +3,7 @@
 "title": "Hiking without pain"
 ---
 
-As I near graduation from the Alexander Technique teacher training course, I managed an ambitious hike with no joint pain during or after. That would have been impossible pre-training, and I'm so grateful!
+Video: As I near graduation from the Alexander Technique teacher training course, I managed an ambitious hike with no joint pain during or after. That would have been impossible pre-training, and I'm so grateful!
 
 
 
