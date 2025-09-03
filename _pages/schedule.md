@@ -3,7 +3,7 @@ permalink: /schedule/
 title: "Schedule"
 ---
 
-If you're interested in free lessons as a practice student (available until early summer 2025, when I graduate), then please contact bekindtoyourspine [at] gmail [.] com.
+If you're interested in lessons, then please contact bekindtoyourspine [at] gmail [.] com.
 
 
 
