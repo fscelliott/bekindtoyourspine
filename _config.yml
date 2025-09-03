@@ -16,7 +16,7 @@
 title: be kind to your spine
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Alexander Technique blog by a teacher trainee
+  Alexander Technique blog by an AMSAT-certified teacher 
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Frances Elliott"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "AMSAT-certified teacher of the Alexander Technique, teaching private students Albuquerque, NM (Northeast Heights area)."
+  bio    : "AMSAT-certified teacher of the Alexander Technique, offering private lessons in Albuquerque, NM (Northeast Heights area)."
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
