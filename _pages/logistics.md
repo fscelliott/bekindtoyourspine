@@ -3,7 +3,7 @@ permalink: /logistics/
 title: "What to expect"
 ---
 
-I teach out of my in-home studio in the foothills area of Albuquerque, New Mexico.
+I teach out of my in-home studio in the Northeast Heights foothills area of Albuquerque, New Mexico.
 See the following logistics so you know what to expect during an Alexander Technique lesson.
 
 ![teaching studio](/assets/images/studio.jpg)
@@ -30,8 +30,5 @@ During a lesson, you'll learn to release unnecessary, painful, or uncomfortable 
 
 Table work is a chance for you to integrate what you've learned during movement activities while lying down. During a portion of the lesson, you'll lie down on the table with your back resting on the table, your knees bent, and your hands resting on your torso and sides. Gravity, coupled with my hands-on work, can encourage space and ease in your joints. Table work is also a great time for you to practice "nondoing".
 
-#### Cost
-
-Currently, I'm still in training with an AMSAT-certified [program](https://alexanderabq.wordpress.com/teacher-training/) to become an Alexander Technique teacher, so I'm offering a sequence of 12 lessons for free for a limited number of practice students. Your first and last lesson will be under my teacher's supervision at her Nob Hill studio, and the rest of the lessons will be at my studio. You can have weekly or twice-a-week lessons.
 
 <!--in future: talk cost, payment and insurance-->
